@@ -1,0 +1,10 @@
+
+{
+  "llm_mode": "remote",
+  "llm_api": "https://api.groq.com/openai/v1/chat/completions",
+  "model": "qwen-qwq-32b",
+  "api_key": "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",
+  "stream": false,
+  "file_extensions": [".py", ".js", ".cpp"],
+  "backup_original": true
+}
